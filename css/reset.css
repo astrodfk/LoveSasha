@@ -74,6 +74,7 @@ input:focus, input:active,
 button:focus, button:active {
     outline: none;
 }
+/* ff */
 
 button::-moz-focus-inner {
 	padding: 0;
